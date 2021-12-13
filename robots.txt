@@ -37,7 +37,7 @@ Allow: /profiles/*.svg
 Disallow: /core/
 Disallow: /profiles/
 # Files
-Disallow: /README.txt
+Allow: /README.txt
 Disallow: /web.config
 # Paths (clean URLs)
 Disallow: /admin/
